@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "run": "npm install",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node web-server/src/app.js"
   },
   "keywords": [],
   "author": "",
